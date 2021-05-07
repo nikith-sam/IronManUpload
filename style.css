@@ -1,0 +1,11 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+    margin: auto;
+    border: 20px solid gold;
+    border-radius: 50px;;
+  }
+  
